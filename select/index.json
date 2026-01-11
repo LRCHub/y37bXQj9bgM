@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Human factory-電造人間- [Official Audio]",
+  "base_artist": "Perfume",
+  "createdAt": "2026-01-11T05:07:08.131433Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Human Factory - 電造人間 -",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/01_Human_Factory_-_電造人間_-_Perfume.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Human Factory - 電造人間 -",
+      "artist": "Perfume",
+      "has_synced": false,
+      "path": "select/pl_01_Human_Factory_-_電造人間_-_Perfume.txt"
+    }
+  ]
+}
